@@ -6,9 +6,3 @@ Fixed few problem that the new version cannot work in the 5.4 kernel.
 3. Install
 4. Restart upnp service
 5. done & enjoy!
-
-If you need some compiled version(such as R2S) ,you can send me an email:
-
-> 2066843@qq.com
-
-> Daniel Chen
